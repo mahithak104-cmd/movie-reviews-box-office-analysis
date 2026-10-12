@@ -56,6 +56,8 @@ The IMDb and TMDB datasets are analyzed separately because the IMDb review datas
 
 ### 2. Sentiment Analysis
 
+<img width="1780" height="970" alt="Sentiment Classification Model Comparison" src="https://github.com/user-attachments/assets/75af5c4d-f18f-41df-a38e-108deba0f90b" />
+
 - Converted review text into numerical features using TF-IDF.
 - Split the data into training and testing sets using an 80/20 split.
 - Trained Logistic Regression and Multinomial Naive Bayes classifiers.
@@ -70,6 +72,8 @@ The IMDb and TMDB datasets are analyzed separately because the IMDb review datas
 - Used vote-count filtering to reduce the influence of ratings based on very few votes.
 
 ### 4. Revenue Forecasting
+
+ <img width="1252" height="950" alt="Logistic Regression Confusion Matrix" src="https://github.com/user-attachments/assets/04549349-97af-4c27-bc5a-5089adab84e2" />
 
 Compared three forecasting approaches:
 
