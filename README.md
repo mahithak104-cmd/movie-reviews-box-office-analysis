@@ -144,7 +144,7 @@ pip install pandas numpy scikit-learn matplotlib statsmodels jupyter
 
 Update the dataset paths in the notebooks if your files are stored in a different location.
 
-## 👤 Author
+## Author
 
 **Mahitha Kalinathabotla**
 
