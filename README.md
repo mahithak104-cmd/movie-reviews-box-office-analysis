@@ -1,12 +1,12 @@
 # 🎬 Movie Reviews Sentiment & Box Office Performance Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project combines natural language processing (NLP), machine learning, exploratory data analysis, revenue forecasting, and data visualization to explore movie review sentiment and box-office performance.
 
 The project has two main analytical components: sentiment classification using IMDb movie reviews and box-office performance analysis using TMDB movie data. A Tableau dashboard presents key movie performance metrics and trends.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze positive and negative movie reviews using NLP.
 - Build and compare machine learning models for sentiment classification.
@@ -14,7 +14,7 @@ The project has two main analytical components: sentiment classification using I
 - Evaluate forecasting models for yearly median movie revenue.
 - Develop an interactive Tableau dashboard to communicate findings.
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 - **Programming:** Python
 - **Data Analysis:** pandas, NumPy
@@ -24,7 +24,7 @@ The project has two main analytical components: sentiment classification using I
 - **Forecasting:** Naive baseline, Damped Exponential Smoothing, Holt Linear Trend
 - **Environment:** Jupyter Notebook
 
-## 📊 Datasets
+##  Datasets
 
 ### 1. IMDb Movie Reviews Dataset
 
@@ -45,7 +45,7 @@ Used for exploratory data analysis, box-office analysis, and forecasting.
 
 The IMDb and TMDB datasets are analyzed separately because the IMDb review dataset does not contain movie identifiers that allow reliable matching of individual reviews to box-office revenue.
 
-## 🔍 Methodology
+##  Methodology
 
 ### 1. Data Cleaning and Exploration
 
@@ -90,7 +90,7 @@ Created a dashboard featuring:
 - Top 10 movies by revenue
 - Movie ratings versus box-office revenue
 
-## 📈 Key Results
+## Key Results
 
 ### Sentiment Classification
 
@@ -115,7 +115,7 @@ The results indicate that the more complex trend-based models did not improve fo
 
 *Note: Forecasting results are based on yearly median movie revenue and should be interpreted cautiously because the test period is relatively short.*
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Python programming
 - Data cleaning and exploratory data analysis
@@ -127,7 +127,7 @@ The results indicate that the more complex trend-based models did not improve fo
 - Data visualization and dashboard development
 - Analytical storytelling
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone or download this repository.
 2. Install the required Python packages.
@@ -143,21 +143,6 @@ pip install pandas numpy scikit-learn matplotlib statsmodels jupyter
 ```
 
 Update the dataset paths in the notebooks if your files are stored in a different location.
-
-## ⚠️ Limitations
-
-- The IMDb review dataset cannot be directly joined to TMDB movie revenue using movie identifiers.
-- Missing or zero-valued budget and revenue fields may affect financial analyses.
-- The forecasting test period is short, and results may differ with alternative periods or datasets.
-- Observed associations between movie characteristics and revenue do not establish causation.
-
-## 🔮 Future Improvements
-
-- Integrate a review dataset containing movie titles or identifiers for movie-level sentiment and revenue analysis.
-- Evaluate additional classification models and tune hyperparameters.
-- Test additional time-series forecasting approaches.
-- Improve dashboard interactivity and filtering.
-- Explore more advanced NLP techniques and sentiment explanations.
 
 ## 👤 Author
 
