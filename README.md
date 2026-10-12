@@ -66,6 +66,8 @@ The IMDb and TMDB datasets are analyzed separately because the IMDb review datas
 
 ### 3. Box-Office Performance Analysis
 
+<img width="2246" height="1124" alt="Box Office Revenue Forecast" src="https://github.com/user-attachments/assets/d8713530-e675-44af-a575-2f6ac079f5fa" />
+
 - Examined top-grossing movies.
 - Analyzed ratings and popularity.
 - Investigated yearly movie releases and revenue trends.
