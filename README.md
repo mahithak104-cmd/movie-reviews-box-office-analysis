@@ -1,3 +1,4 @@
+<img width="3000" height="1976" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/92dc0768-88fd-4182-8e3f-9ec50889c3b5" />
 # 🎬 Movie Reviews Sentiment & Box Office Performance Analysis
 
 ##  Project Overview
@@ -80,6 +81,8 @@ Compared three forecasting approaches:
 Models were evaluated using a chronological train-test split and Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 ### 5. Tableau Dashboard
+ 
+ <img width="3000" height="1976" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/57568a80-ce4a-475c-8a48-8da38af43916" />
 
 Created a dashboard featuring:
 
