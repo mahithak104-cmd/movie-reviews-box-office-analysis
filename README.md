@@ -1,4 +1,4 @@
-# 🎬 Movie Reviews Sentiment & Box Office Performance Analysis
+# Movie Reviews Sentiment & Box Office Performance Analysis
 
 ##  Project Overview
 
@@ -152,10 +152,6 @@ pip install pandas numpy scikit-learn matplotlib statsmodels jupyter
 
 Update the dataset paths in the notebooks if your files are stored in a different location.
 
-## Author
+## Connect with Me
 
-**Mahitha Kalinathabotla**
-
-Data Analytics | Machine Learning | Natural Language Processing
-
-Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
